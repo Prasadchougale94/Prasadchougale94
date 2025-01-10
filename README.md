@@ -18,6 +18,12 @@
 
 - 📫 How to reach me **prasadchougale2953@gmail.com**
 
+### Languages I Work With:
+- **Java** ☕
+- **MySQL** 🛠️
+- **HTML & CSS** 🎨
+- **JavaScript** 💻
+- **ReactJS** ⚛️
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <b>🛠️ Core Java Development</b> 
@@ -32,9 +38,9 @@
 <p> -- Experience in creating interactive web pages and applications using frameworks like reactjs, tailwind and APIs 🌟..</p>
 <p> <i> Let's connect for Software development opportunities or collaborations! 💼📲</i></p>
 
-<a href="https://twitter.com/rohanchavan_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohanchavan_16" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rohanchavan1604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohanchavan1604" height="30" width="40" /></a>
-<a href="https://instagram.com/rohanchavan_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohanchavan_16" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/prasad-chougale-01b7a625b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasad-chougale-01b7a625b" height="30" width="40" /></a>
+<a href="https://instagram.com/mr_prasasd94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_prasad94" height="30" width="40" /></a>
 </p>
 
 
