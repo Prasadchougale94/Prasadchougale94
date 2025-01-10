@@ -40,7 +40,7 @@
 
 
 <a href="https://www.linkedin.com/in/prasad-chougale-01b7a625b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasad-chougale-01b7a625b" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_prasasd94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_prasad94" height="30" width="40" /></a>
+<a href="https://instagram.com/mr__prasasd94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr__prasad94" height="30" width="40" /></a>
 </p>
 
 
